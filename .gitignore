@@ -1,0 +1,37 @@
+# Simulation files
+sim/**/*.vcd
+sim/**/*.wlf
+sim/**/*.log
+sim/**/*.history
+
+# Synthesis files
+*.rpt
+*.summary
+*.done
+*.smsg
+*.jdi
+*.pin
+*.sof
+*.pof
+*.qws
+*.chg
+
+# Tool generated files
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+*.bak
+*.qws
+*.rpt
+*.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
